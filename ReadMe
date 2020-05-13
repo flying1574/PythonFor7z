@@ -1,0 +1,6 @@
+The program is written in Python, calls CMD to run 7z.exe, traverses the password dictionary, and decrypts in turn using the command line
+
+The disadvantage is that the password matches correctly. Extract the file and the program will continue to run
+
+With this Python program, you should ensure that the following exists in the same file:
+pswd.py 、 7z.exe 、Password.txt 、Package.7z
